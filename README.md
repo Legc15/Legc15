@@ -1,6 +1,4 @@
-# Hi there! 👋
-
-<h3 align="center">A passionate Frontend Developer from Uruguay</h3>
+# Hi there! 👋 
 
 <p>- :muscle: I'm passionate and driven entrepreneur committed to continuous learning and growth. I thrive on exploring the ever-evolving world of technology, constantly seeking new opportunities to expand my knowledge and skill set. My focus lies in developing innovative software solutions that leverage the power of React.js and NodeJS. I embrace challenges, collaborate effectively, and strive for excellence in every project I undertake. <br>
 <br> Let's connect and create impactful solutions together <p/>
