@@ -1,10 +1,7 @@
 # Hi there! 👋 
 
 <p> :muscle: I'm passionate and driven entrepreneur committed to continuous learning and growth. I thrive on exploring the ever-evolving world of technology, constantly seeking new opportunities to expand my knowledge and skill set. 
-<br>My focus lies in developing innovative software solutions that leverage the power of React.js and NodeJS. I embrace challenges, collaborate effectively, and strive for excellence in every project I undertake. <br>
-<p> 🌱 Currently learning fullstack dev, BACKEND with JAVA. <p/>
-Let's connect and create impactful solutions together <p/>
-
+<p> 🌱 Currently learning fullstack dev. <p/>
 <p>📫 How to reach me - mail me: leandro.garcia.casariego@gmail.com </p>
 
 <h3 align="left">Languages and Tools:</h3>
