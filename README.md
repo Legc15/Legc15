@@ -1,8 +1,11 @@
 # Hi there! 👋 
 
-<p> :muscle: I'm passionate and driven entrepreneur committed to continuous learning and growth. I thrive on exploring the ever-evolving world of technology, constantly seeking new opportunities to expand my knowledge and skill set. My focus lies in developing innovative software solutions that leverage the power of React.js and NodeJS. I embrace challenges, collaborate effectively, and strive for excellence in every project I undertake. <br>
+<p> :muscle: I'm passionate and driven entrepreneur committed to continuous learning and growth. I thrive on exploring the ever-evolving world of technology, constantly seeking new opportunities to expand my knowledge and skill set. 
+<br>My focus lies in developing innovative software solutions that leverage the power of React.js and NodeJS. I embrace challenges, collaborate effectively, and strive for excellence in every project I undertake. <br>
 <p> 🌱 Currently learning fullstack dev, BACKEND with JAVA. <p/>
 Let's connect and create impactful solutions together <p/>
+
+<p>📫 How to reach me - mail me: leandro.garcia.casariego@gmail.com </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
